@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article lang="EN,PT">
+<animais xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="Animais.xsd">
+<firstpage>
+  <orderedlist>
+    <listitem>
+      <link><olink targetdocent="index.HTML">INICIO</olink> </link>
+      <link><olink targetdocent="secondpage.HTML">FENRIR</olink> </link>
+      <link><olink targetdocent="thirdpage.HTML">ANIMAIS</olink> </link>
+      <link><olink targetdocent="fourthpage.HTML">PERGUNTAS</olink> </link>
+      <link><olink targetdocent="Download.HTML">XML</olink> </link>
+    </listitem>
+  </orderedlist>
+  <phrase>Mitologia Nórdica</phrase>
+  <phrase>Neste site é apresentado os animais que são lendas ou até mesmo reais nos tempos da Mitologia Nórdica.</phrase>
+</firstpage>
+<secondpage>
+    <video>História de Fenrir</video>
+    <title>FENRIR</title>
+    <phrase>Fenrir é atestado na Edda em verso, compilada no século XIII a partir de fontes tradicionais anteriores, 
+    na Edda em prosa e na Heimskringla, 
+    escritas no século XIII por Snorri Sturluson. Em ambas a Edda em verso e a Edda em prosa, 
+    Fenrir é o pai dos lobos Skoll e Hati, filho de Loki, pressagiado para matar o deus Odin durante os eventos do Ragnarök, 
+    mas por sua vez, ser morto pelo filho de Odin Vidar. 
+    Na Edda em prosa, informações adicionais são dadas sobre Fenrir, incluindo que,
+    devido ao conhecimento dos deuses de profecias predizendo grandes problemas com Fenrir e o seu rápido crescimento, 
+    os deuses o prendiam, e como resultado Fenrir arrancou a mão direita do deus Týr. 
+    Representações de Fenrir foram identificadas em vários objetos, 
+    e as teorias académicas têm sido propostas a respeito da relação de Fenrir a outros seres caninos na mitologia nórdica. </phrase>
+</secondpage>
+<thirdpage>
+   <table>
+   <order>1</order>
+   <image>fenrir1</image>
+   <Name>Fenrir</Name>
+     <order>2</order>
+   <image>geriefreki</image>
+   <Name>Geri e Freki</Name>
+     <order>3</order>
+   <image>Jörmungandr</image>
+   <Name>Jörmungandr</Name>
+     <order>4</order>
+   <image>ratatosk</image>
+   <Name>Ratatosk</Name>
+     <order>5</order>
+   <image>Huginn-e-Munin</image>
+   <Name>Huginn e Munin</Name>
+   </table>
+</thirdpage>
+<fourthpage>
+<title>Quiz</title>
+    <secondtitle>Pergunta</secondtitle>
+    <answerbutton>Resposta1 Resposta2 Resposta3 Resposta4 </answerbutton>
+    <phrase>Seguinte </phrase>
+</fourthpage>
+</animais>
+</article>
